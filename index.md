@@ -27,5 +27,5 @@ Available on [Credly](https://www.credly.com/users/austin-asang-ai)
   ---
 **_As a cybersecurity analyst with a high value for integrity, hard work and passion. I make the digital space safe._**
   ---
-  [BACK TO HOMEPAGE](Index.md)
+  [GO BACK](Index.md)
   
