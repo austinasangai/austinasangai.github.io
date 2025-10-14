@@ -26,6 +26,6 @@ Available on [Credly](https://www.credly.com/users/austin-asang-ai)
 - Assisted in system maintenance and update
   
   ---
-**_As a cybersecurity analyst with a high value for integrity, hard work and passion. I make the digital space safe._**
+**_As a cybersecurity analyst with a high value for integrity, hard work and passion,I make the digital space safe._**
   
   
