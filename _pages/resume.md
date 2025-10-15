@@ -1,11 +1,11 @@
 ---
 permalink: /resume/
-title: "Curriculum Vitae - Austin Emmanuel Asangai"
+title: "Curriculum Vitae"
 layout: single
 author_profile: true
 ---
 
-
+#Austin Emmanuel Asangai
 
 ##  🎓 Education
 **Bachelor of science in Mathematics and Computer Science**, Maseno University -*Second Class Honours(Upper Division)*
