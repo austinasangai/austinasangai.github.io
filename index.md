@@ -7,7 +7,7 @@ author_profile: true
 ---
 # Curriculum Vitae - Austin Emmanuel Asangai
 ##  🎓 Education
-**Bachelor of science in Mathematics and Computer Science**, Maseno University -*Second lass Honours(Upper Division)*
+**Bachelor of science in Mathematics and Computer Science**, Maseno University -*Second Class Honours(Upper Division)*
 ## 📘 Training
 **Security Analyst Program**, Cybershujaa
 ## 📜 Certifications and Badges
@@ -17,7 +17,7 @@ Available on [Credly](https://www.credly.com/users/austin-asang-ai)
 - CCNA: Switching, Routing, and Wireless Essentials
 ## 👨‍💻 Work Experience
 **ICT Intern** - *The Nairobi Hospital*
-- conducted system maintenance an software update
+- conducted system maintenance and software update
 - Performed workstation administration using windows active directory
 - Conducted Inventory management of ICT assets within the hospitals
 - Offered hardware support for workstations i.e., printers and UPS
