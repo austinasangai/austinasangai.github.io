@@ -7,7 +7,7 @@ author_profile: true
 ---
 # Curriculum Vitae - Austin Emmanuel Asangai
 ##  🎓 Education
-**Bachelor of science in Mathematics and Computer Science**, Maseno University -*Second lass Honours(Upper Divisoion)*
+**Bachelor of science in Mathematics and Computer Science**, Maseno University -*Second lass Honours(Upper Division)*
 ## 📘 Training
 **Security Analyst Program**, Cybershujaa
 ## 📜 Certifications and Badges
