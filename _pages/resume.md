@@ -1,7 +1,6 @@
-
 ---
 permalink: /resume/
-title: "Resume"
+title: "Curiiculum Vitae"
 layout: single
 author_profile: true
 ---
