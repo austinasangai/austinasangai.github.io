@@ -1,9 +1,9 @@
 main:
+ - title: "Curricumum Vitae"
+    url: /resume/
   - title: "Projects"
     url: /projects/
   - title: "CTFS"
     url: /ctfs/
-  - title: "About"
-    url: /about/
   - title: "Contacts"
     url: /contacts/
