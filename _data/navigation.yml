@@ -3,7 +3,7 @@ main:
     url: /projects/
   - title: "CTFS"
     url: /ctfs/
- # - title: "Tags"
-  #  url: /tags/
   - title: "About"
     url: /about/
+  - title: "Contacts"
+    url: /contacts/
