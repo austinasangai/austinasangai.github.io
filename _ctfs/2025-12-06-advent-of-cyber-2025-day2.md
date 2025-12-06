@@ -14,3 +14,4 @@ Social engineering.
 Step 1: connected to the machine bu clicking start machine button, start my vpn using the .ovpn file from tryhackme 
 and connect to the target machine.
 
+[⬅️ Back to Home]({{ '/' | relative_url }})
