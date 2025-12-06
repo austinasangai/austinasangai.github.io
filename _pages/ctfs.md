@@ -15,4 +15,3 @@ collection: ctfs
   {% endif %}
 {% endfor %}
 </ul>
-[⬅️ Back to Home]({{ '/' | relative_url }})
