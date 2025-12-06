@@ -45,7 +45,9 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
+collections:
+  ctfs:
+    output: true
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
