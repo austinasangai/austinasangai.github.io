@@ -1,7 +1,7 @@
 ---
 title: "CTF Writeups"
 permalink: /ctfs/
-layout: page
+layout: collection
 ---
 ## My CTF Writeups
 
