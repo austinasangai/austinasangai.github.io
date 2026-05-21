@@ -1,11 +1,11 @@
 main:
- # - title: "Home"
- #   url: /
-  - title: "Curriculum Vitae"
-    url: /resume/
+  - title: "Home"
+    url: /home/
   - title: "Projects"
     url: /projects/
-  - title: "CTFs"
-    url: /ctfs/
+  - title: "Certs"
+    url: /certs/
+  - title: "Blogs"
+    url: /blog/
   - title: "Contacts"
     url: /contacts/
