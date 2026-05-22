@@ -99,10 +99,11 @@ set RHOSTS 10.129.2.141
   - SMB
   - Kali Linux
     
- ## Report
-
-[Download full PDF report](/assets/reports/metasploit.pdf)
 
 ## Source
 
 [Write-up on GitHub](https://github.com/austinasangai/ctfs/blob/main/metasploit_framework.md)
+
+ ## Report
+
+<a href="/assets/reports/metasploit.pdf" class="btn btn--primary"><i class="fas fa-download"></i> Download Report</a>
