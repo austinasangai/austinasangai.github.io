@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "How I Set Up My Home Cybersecurity Lab for Under $0"
+title: "How I Set Up My Home Cybersecurity Lab for Under Kshs 0"
 date: 2024-04-01
 categories:
   - blog
