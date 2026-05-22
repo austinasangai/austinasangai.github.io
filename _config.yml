@@ -21,33 +21,33 @@ plugins:
 # Author (shows in sidebar on every page)
 author:
   name: "Austin Asangai"
-  avatar: "/assets/images/avatar.jpg"
+  avatar: "/assets/images/photo.jpg"
   bio: "Penetration Tester · SOC Analyst · CTF Player. Securing systems and finding vulnerabilities."
-  location: "Nairobi, Kenya"
-  email: "john@email.com"
+  location: "Kisii, Kenya"
+  email: "asaasangai@email.com"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/yourusername"
+      url: "https://github.com/austinasangai"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/yourusername"
+      url: "https://www.linkedin.com/in/austin-asangai"
     - label: "HackTheBox"
       icon: "fas fa-fw fa-flag"
-      url: "https://app.hackthebox.com/profile/yourid"
+      url: "https://profile.hackthebox.com/profile/019e4b60-adc4-7103-b010-affc80e03192"
     - label: "TryHackMe"
       icon: "fas fa-fw fa-shield-alt"
-      url: "https://tryhackme.com/p/yourusername"
+      #url: "https://tryhackme.com/p/yourusername"
 
 # Footer links
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/yourusername"
+      url: "https://github.com/austinasangai"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/yourusername"
+      url: "https://www.linkedin.com/in/austin-asangai"
 
 # Defaults — sets layout for every page/post/portfolio item automatically
 defaults:
