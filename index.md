@@ -11,15 +11,15 @@ excerpt: "Penetration Tester · SOC Analyst · CTF Player"
 
 <div class="stats-row">
   <div class="stat-item">
-    <span class="stat-num">12+</span>
+    <span class="stat-num">1</span>
     <span class="stat-label">CTF Challenges Solved</span>
   </div>
   <div class="stat-item">
-    <span class="stat-num">5</span>
+    <span class="stat-num">1</span>
     <span class="stat-label">Certifications</span>
   </div>
   <div class="stat-item">
-    <span class="stat-num">8</span>
+    <span class="stat-num">1</span>
     <span class="stat-label">Projects Completed</span>
   </div>
   <div class="stat-item">
