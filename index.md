@@ -1,13 +1,49 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: single
+layout: home
 author_profile: true
-title: "Personal Profile"
+title: "John Kamau"
+header:
+  overlay_color: "#0a1628"
+  overlay_filter: "0.5"
+  caption: ""
+excerpt: "Penetration Tester · SOC Analyst · CTF Player"
 ---
 
+<div class="stats-row">
+  <div class="stat-item">
+    <span class="stat-num">12+</span>
+    <span class="stat-label">CTF Challenges Solved</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-num">5</span>
+    <span class="stat-label">Certifications</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-num">8</span>
+    <span class="stat-label">Projects Completed</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-num">3</span>
+    <span class="stat-label">Bug Bounties</span>
+  </div>
+</div>
 
-# 👋 Hi, I'm Austin Emmanuel Asangai
+## Featured Projects
 
-**_A cybersecurity analyst with a high value for integrity, hard work and passion,who makes the digital space safe. I analyze vulnerabilities, detect breaches and respond to incidents filling the gap between organizations and their security risk exposure. I am ready to share my experties._**
+{% assign featured = site.portfolio | where: "featured", true %}
+{% for project in featured limit:3 %}
+<div class="portfolio-card">
+  <h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
+  <p class="project-type {{ project.type }}">{{ project.type | upcase }}</p>
+  <p>{{ project.excerpt }}</p>
+  <div class="project-tags">
+    {% for tag in project.tags %}
+    <span class="p-tag">{{ tag }}</span>
+    {% endfor %}
+  </div>
+</div>
+{% endfor %}
+
+<div style="text-align:center; margin-top: 1.5rem;">
+  <a href="/portfolio/" class="btn btn--primary">View All Projects</a>
+</div>
