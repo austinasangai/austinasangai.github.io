@@ -316,3 +316,29 @@ hr {
 a[href$="feed.xml"] {
   display: none !important;
 }
+
+/* Certification badges */
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.badge-item {
+  text-align: center;
+  width: 120px;
+}
+
+.badge-item img {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+.badge-item p {
+  font-size: 0.72rem;
+  color: #c8d6e5;
+  margin-top: 6px;
+}
