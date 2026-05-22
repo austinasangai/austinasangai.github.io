@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-## // get in touch
+## *Get in Touch*
 
 I'm open to freelance work, full-time roles, and collaborations. Feel free to reach out.
 
@@ -16,7 +16,7 @@ I'm open to freelance work, full-time roles, and collaborations. Feel free to re
 
 ---
 
-## // availability
+## *Availability*
 
 Currently **open to opportunities** in:
 - Penetration Testing (contract or full-time)
