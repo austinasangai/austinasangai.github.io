@@ -9,27 +9,20 @@ author_profile: true
 
 | Certification | Issuer | Year | Status |
 |---------------|--------|------|--------|
-| CompTIA Security+ | CompTIA | 2024 | ✅ Active |
-| Certified Ethical Hacker (CEH) | EC-Council | 2024 | ✅ Active |
-| Google Cybersecurity Certificate | Coursera / Google | 2023 | ✅ Active |
-| Junior Penetration Tester | TryHackMe | 2023 | ✅ Active |
-| Cyber Defense | TryHackMe | 2023 | ✅ Active |
-
+|Security Analyst | Cyber Shujaa | 2026 | ✅ Active |
+| 
 ---
 
 ## // in progress
 
-- [ ] Offensive Security Certified Professional (OSCP)
-- [ ] CompTIA PenTest+
-- [ ] AWS Certified Security – Specialty
+- [ ] ALX cybersecurity Bootcamp
 
 ---
 
 ## // platforms & badges
 
-- 🟩 **HackTheBox** — [View Profile](https://app.hackthebox.com/profile/yourid)
-- 🟦 **TryHackMe** — Top 5% globally · [View Profile](https://tryhackme.com/p/yourusername)
-- 🔴 **Hack The Box Pro Labs** — Completed RastaLabs
+- 🟩 **HackTheBox** — [View Profile](https://profile.hackthebox.com/profile/019e4b60-adc4-7103-b010-affc80e03192)
+
 
 ---
 
