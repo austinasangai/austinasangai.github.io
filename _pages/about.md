@@ -7,7 +7,7 @@ author_profile: true
 
 ## // who i am
 
-I'm a cybersecurity analyst and ethical hacker based in Nairobi, Kenya. I specialize in penetration testing, vulnerability assessment, and building defensive security systems. I'm passionate about CTF challenges and open-source security tooling.
+I'm a cybersecurity analyst and ethical hacker based in Kenya. I specialize in penetration testing, vulnerability assessment, and building defensive security systems. I'm passionate about CTF challenges and open-source security tooling.
 
 I'm currently open to **red team**, **blue team**, and **SOC analyst** roles.
 
@@ -37,8 +37,8 @@ I'm currently open to **red team**, **blue team**, and **SOC analyst** roles.
 
 ## // education
 
-**Bachelor of Science in Information Technology**
-University of Nairobi · 2020 – 2024
+**Bachelor of Science in Mathematics and Computer Science**
+University of Nairobi · 2019 – 2023
 
 ---
 
