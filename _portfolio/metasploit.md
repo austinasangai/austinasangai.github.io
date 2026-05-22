@@ -108,4 +108,4 @@ set RHOSTS 10.129.2.141
 
  ## Report
 
-<a href="/assets/reports/metasploit.pdf" class="btn btn--primary"><i class="fas fa-download"></i> Download Report</a>
+<a href="/assets/reports/Metasploit.pdf" class="btn btn--primary"><i class="fas fa-download"></i> Download Report</a>
