@@ -1,11 +1,14 @@
+# Main navigation bar (top right)
 main:
   - title: "Home"
-    url: /home/
+    url: /
+  - title: "About"
+    url: /about/
   - title: "Projects"
-    url: /projects/
-  - title: "Certs"
-    url: /certs/
-  - title: "Blogs"
+    url: /portfolio/
+  - title: "Certifications"
+    url: /certifications/
+  - title: "Blog"
     url: /blog/
-  - title: "Contacts"
-    url: /contacts/
+  - title: "Contact"
+    url: /contact/
