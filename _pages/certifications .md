@@ -18,8 +18,8 @@ author_profile: true
 | course | Issuer | Year | Status |
 |---------------|--------|------|--------|
 |Introduction to Cybersecurity| Cisco Networking Academy | 2025 | ✅ Active |
-|Introduction to Networking| Cisco Nwtworking Academy | 2022 | ✅ Active |
-|CCNA: Switching, Routing, and Wireless Essentials| Cisco Nwtworking Academy | 2022 | ✅ Active |
+|Introduction to Networking| Cisco Networking Academy | 2022 | ✅ Active |
+|CCNA: Switching, Routing, and Wireless Essentials| Cisco Networking Academy | 2022 | ✅ Active |
 
 
 ## *In Progress*
@@ -36,3 +36,7 @@ author_profile: true
 ---
 
 ## *verify credentials*
+Verification links for each certification will be listed here with badge images once you upload them to `/assets/images/badges/`.
+
+<img src="/assets/images/badges/securityplus.png" alt="CompTIA Security+" style="height: 80px; margin: 0.5rem;">
+<img src="/assets/images/badges/ceh.png" alt="CEH" style="height: 80px; margin: 0.5rem;">
