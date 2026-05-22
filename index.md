@@ -1,7 +1,7 @@
 ---
 layout: home
 author_profile: true
-title: "John Kamau"
+title: "Austin Emmanuel Asangai"
 header:
   overlay_color: "#0a1628"
   overlay_filter: "0.5"
