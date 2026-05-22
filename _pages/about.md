@@ -46,5 +46,5 @@ Maseno University · 2019 – 2023
 
 When I'm not breaking things (ethically), I write technical blog posts.
 
-<a href="assets/docs/cv.pdf" class="btn btn--primary"><i class="fas fa-download"></i> Download CV</a>
+<a href="/assets/docs/cv.pdf" class="btn btn--primary"><i class="fas fa-download"></i> Download CV</a>
 <a href="/contact/" class="btn btn--inverse">Get in Touch</a>
