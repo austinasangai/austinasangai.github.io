@@ -312,3 +312,7 @@ hr {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+/* Hide RSS feed link in footer */
+a[href$="feed.xml"] {
+  display: none !important;
+}
