@@ -40,6 +40,6 @@ Verification links for each certification will be listed here with badge images 
 
 <img src="assets/images/badges/Security Analyst.jpeg" alt="Security Analyst" style="height: 80px; margin: 0.5rem;">
 <img src="assets/images/badges/ccna-introduction-to-networks.png" alt="Security Analyst" style="height: 80px; margin: 0.5rem;">
-<img src="assets/images/badges/ccna-introduction-to-networks.png" alt="Security Analyst" style="height: 80px; margin: 0.5rem;">
+<img src="assets/images/badges/ccna-switching-routing-and-wireless-essentials.1.png" alt="Security Analyst" style="height: 80px; margin: 0.5rem;">
 <img src="assets/images/badges/ccna-introduction-to-networks.png" alt="Security Analyst" style="height: 80px; margin: 0.5rem;">
 <img src="/assets/images/badges/ceh.png" alt="CEH" style="height: 80px; margin: 0.5rem;">
