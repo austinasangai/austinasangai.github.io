@@ -1,105 +1,56 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+title: "John Kamau"
+subtitle: "Cybersecurity Analyst & Ethical Hacker"
+name: "John Kamau"
+description: "Penetration tester, SOC analyst and CTF player based in Nairobi."
+url: "https://yourusername.github.io"
+baseurl: ""
+repository: "yourusername/yourusername.github.io"
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Home
-email: asaasangai@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Recent Graduate| cybersecurity trainee |
-#twitter_username: username
-github_username: austinasangai
-minimal_mistakes_skin: "navy"
-search: true
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default"
 
-# Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-include:
-  - _pages
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-collections:
-  ctfs:
-    output: true
-# Plugins (previously gems:)
+# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
   - jekyll-include-cache
 
+# Author (shows in sidebar on every page)
 author:
-  name   : "Austin Emmanuel Asangai"
-  avatar : "/assets/images/photo.jpg"
-  bio    : "A Mathematics and Computer Science graduate with a passion for cybersecurity"
+  name: "John Kamau"
+  avatar: "/assets/images/avatar.jpg"
+  bio: "Penetration Tester · SOC Analyst · CTF Player. Securing systems and finding vulnerabilities."
+  location: "Nairobi, Kenya"
+  email: "john@email.com"
   links:
-    #- label: "Website"
-     # icon: "fas fa-fw fa-link"
-      #url: "https://"
-    - label: "Linkedin"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/austin-asangai"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/austinasangai"
-    #- label: "Instagram"
-     # icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/"
+      url: "https://github.com/yourusername"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/yourusername"
+    - label: "HackTheBox"
+      icon: "fas fa-fw fa-flag"
+      url: "https://app.hackthebox.com/profile/yourid"
+    - label: "TryHackMe"
+      icon: "fas fa-fw fa-shield-alt"
+      url: "https://tryhackme.com/p/yourusername"
 
+# Footer links
 footer:
   links:
-  #  - label: "Twitter"
-   #   icon: "fab fa-fw fa-twitter-square"
-     # url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    #- label: "Instagram"
-     # icon: "fab fa-fw fa-instagram"
-     # url: "https://instagram.com/"
+      url: "https://github.com/yourusername"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/yourusername"
 
+# Defaults — sets layout for every page/post/portfolio item automatically
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
+  # All pages
   - scope:
       path: "_pages"
       type: pages
@@ -107,9 +58,41 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+  # All blog posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+
+  # All portfolio items
+  - scope:
+      path: "_portfolio"
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+
+# Portfolio collection
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+# Pagination for blog
+paginate: 5
+paginate_path: /blog/page:num/
+
+# Reading files
+include:
+  - _pages
+
+# Exclude from build
+exclude:
+  - "*.gemspec"
+  - Gemfile
+  - Gemfile.lock
+  - vendor
