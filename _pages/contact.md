@@ -12,7 +12,7 @@ I'm open to freelance work, full-time roles, and collaborations. Feel free to re
 - 📧 **Email:** [asaasangai@gmail.com](mailto:asaasangai@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/austin-asangai](https://www.linkedin.com/in/austin-asangai)
 - 🐙 **GitHub:** [github.com/austinasangai](https://github.com/austinasangai)
-- 🏴 **HackTheBox:** [View my profile](https://app.hackthebox.com/profile/yourid)
+- 🏴 **HackTheBox:** [View my profile](https://profile.hackthebox.com/profile/019e4b60-adc4-7103-b010-affc80e03192)
 
 ---
 
