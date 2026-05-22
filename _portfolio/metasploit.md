@@ -98,6 +98,7 @@ set RHOSTS 10.129.2.141
   - windows powershell
   - SMB
   - Kali Linux
+    
  ## Report
 
 [Download full PDF report](/assets/reports/metasploit.pdf)
