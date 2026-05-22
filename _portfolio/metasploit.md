@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "using metasploit framework- Hackthebox"
+title: "Using Metasploit Framework- Hackthebox"
 excerpt: "Full penetration test of a machine by exploiting eternal blue SMB exploit"
 date: 2024-01-20
 type: red-team
