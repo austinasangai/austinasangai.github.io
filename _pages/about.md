@@ -38,7 +38,7 @@ I'm currently open to **red team**, **blue team**, and **SOC analyst** roles.
 ## *Education*
 
 **Bachelor of Science in Mathematics and Computer Science**
-University of Nairobi · 2019 – 2023
+Maseno University · 2019 – 2023
 
 ---
 
