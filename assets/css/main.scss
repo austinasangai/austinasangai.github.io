@@ -372,3 +372,40 @@ a[href$="feed.xml"] {
   border-color: #2a5a8c;
   color: #ffffff;
 }
+
+/* Mobile navigation menu */
+.greedy-nav__toggle {
+  color: #ffffff;
+}
+
+.greedy-nav .hidden-links {
+  background-color: #0d1f3c;
+  border: 1px solid #1a3a5c;
+}
+
+.greedy-nav .hidden-links a {
+  color: #ffffff;
+}
+
+.greedy-nav .hidden-links a:hover {
+  color: #7eb8f7;
+  background-color: #1a3a5c;
+}
+
+.greedy-nav .hidden-links li {
+  border-bottom: 1px solid #1a3a5c;
+}
+
+.greedy-nav .hidden-links li:last-child {
+  border-bottom: none;
+}
+
+/* The three lines (hamburger icon) color */
+.navicon {
+  background: #ffffff;
+}
+
+.navicon:before,
+.navicon:after {
+  background: #ffffff;
+}
