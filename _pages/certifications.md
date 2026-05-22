@@ -37,5 +37,8 @@ author_profile: true
 
 ## *verify credentials*
 
-<img src="assets/images/badges/Security Analyst.jpeg" alt="Security Analyst" style="height: 80px; margin: 0.5rem;">
+<div class="badge-item">
+  <img src="/assets/images/badges/Security Analyst.jpeg" alt="Security Analyst">
+  <p>Security Analyst - CyberShujaa</p>
+</div>
 
