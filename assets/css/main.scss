@@ -342,3 +342,33 @@ a[href$="feed.xml"] {
   color: #c8d6e5;
   margin-top: 6px;
 }
+
+/* Filter buttons */
+.filter-btns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 1.5rem;
+}
+
+.filter-btn {
+  background: transparent;
+  border: 1px solid #1a3a5c;
+  color: #7eb8f7;
+  font-size: 0.8rem;
+  padding: 6px 16px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.filter-btn:hover {
+  background-color: #1a3a5c;
+  color: #ffffff;
+}
+
+.filter-btn.active {
+  background-color: #1a3a5c;
+  border-color: #2a5a8c;
+  color: #ffffff;
+}
