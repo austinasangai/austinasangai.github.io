@@ -105,7 +105,6 @@ set RHOSTS 10.129.2.141
 [Write-up on GitHub](https://github.com/austinasangai/ctfs/blob/main/metasploit_framework.md)
 
 ---
-
- ## Report
+## Report
 
 <a href="/assets/reports/Metasploit.pdf" class="btn btn--primary"><i class="fas fa-download"></i> Download Report</a>
