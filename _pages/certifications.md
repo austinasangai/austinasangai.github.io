@@ -7,19 +7,19 @@ author_profile: true
 
 ## *Professional Training*
 
-| Certification | Issuer | Year | Status |
-|---------------|--------|------|--------|
-|Security Analyst | Cyber Shujaa | 2026 | ✅ Active |
+| Certification | Issuer | Year |
+|---------------|--------|------|
+|Security Analyst | Cyber Shujaa | 2026 |
 
 
 ---
 ## *short courses*
 
-| course | Issuer | Year | Status |
-|---------------|--------|------|--------|
-|Introduction to Cybersecurity| Cisco Networking Academy | 2025 | ✅ Active |
-|Introduction to Networking| Cisco Networking Academy | 2022 | ✅ Active |
-|CCNA: Switching, Routing, and Wireless Essentials| Cisco Networking Academy | 2022 | ✅ Active |
+| course | Issuer | Year |
+|---------------|--------|------|
+|Introduction to Cybersecurity| Cisco Networking Academy | 2025 |
+|Introduction to Networking| Cisco Networking Academy | 2022 |
+|CCNA: Switching, Routing, and Wireless Essentials| Cisco Networking Academy | 2022 |
 
 
 ## *In Progress*
