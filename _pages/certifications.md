@@ -31,7 +31,7 @@ author_profile: true
 ## *platforms & badges*
 
 - 🟩 **HackTheBox** — [View Profile](https://profile.hackthebox.com/profile/019e4b60-adc4-7103-b010-affc80e03192)
-- 🟦 **TryHackMe** — [View Profile](https://www.credly.com/users/austin-asang-ai/badges#credly)
+- 🟦 **Credly Badges** — [View Profile](https://www.credly.com/users/austin-asang-ai/badges#credly)
 
 ---
 
