@@ -38,5 +38,5 @@ author_profile: true
 ## *verify credentials*
 Verification links for each certification will be listed here with badge images once you upload them to `/assets/images/badges/`.
 
-<img src="/assets/images/badges/securityplus.png" alt="CompTIA Security+" style="height: 80px; margin: 0.5rem;">
+<img src="assets/images/badges/Security Analyst.jpeg" alt="Security Analyst" style="height: 80px; margin: 0.5rem;">
 <img src="/assets/images/badges/ceh.png" alt="CEH" style="height: 80px; margin: 0.5rem;">
