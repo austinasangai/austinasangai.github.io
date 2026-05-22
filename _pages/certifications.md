@@ -31,13 +31,11 @@ author_profile: true
 ## *platforms & badges*
 
 - 🟩 **HackTheBox** — [View Profile](https://profile.hackthebox.com/profile/019e4b60-adc4-7103-b010-affc80e03192)
-
+- 🟦 **TryHackMe** — [View Profile](https://www.credly.com/users/austin-asang-ai/badges#credly)
 
 ---
 
 ## *verify credentials*
 
 <img src="assets/images/badges/Security Analyst.jpeg" alt="Security Analyst" style="height: 80px; margin: 0.5rem;">
-<img src="assets/images/badges/ccna-introduction-to-networks.png" alt="Security Analyst" style="height: 80px; margin: 0.5rem;">
-<img src="assets/images/badges/ccna-switching-routing-and-wireless-essentials.1.png" alt="Security Analyst" style="height: 80px; margin: 0.5rem;">
-<img src="assets/images/badges/introduction-to-cybersecurity.png" alt="Security Analyst" style="height: 80px; margin: 0.5rem;">
+
