@@ -100,10 +100,6 @@ set RHOSTS 10.129.2.141
   - Kali Linux
   - 
 
-##  for more Report
-
-[Download full PDF report](/assets/docs/dvwa-pentest-report.pdf)
-
 ## Source
 
-[Write-up on GitHub](https://github.com/yourusername/dvwa-pentest)
+[Write-up on GitHub](https://github.com/austinasangai/ctfs/blob/main/metasploit_framework.md)
