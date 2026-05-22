@@ -100,7 +100,7 @@ set RHOSTS 10.129.2.141
   - Kali Linux
  ## Report
 
-[Download full PDF report](/assets/docs/metasploit.pdf)
+[Download full PDF report](/assets/reports/metasploit.pdf)
 
 ## Source
 
