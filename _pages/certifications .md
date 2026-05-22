@@ -11,7 +11,16 @@ author_profile: true
 |---------------|--------|------|--------|
 |Security Analyst | Cyber Shujaa | 2026 | ✅ Active |
 
+
 ---
+## *short courses*
+
+| course | Issuer | Year | Status |
+|---------------|--------|------|--------|
+|Introduction to Cybersecurity| Cisco Networking Academy | 2025 | ✅ Active |
+|Introduction to Networking| Cisco Nwtworking Academy | 2022 | ✅ Active |
+|CCNA: Switching, Routing, and Wireless Essentials| Cisco Nwtworking Academy | 2022 | ✅ Active |
+
 
 ## *In Progress*
 
