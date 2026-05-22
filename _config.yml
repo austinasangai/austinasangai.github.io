@@ -1,10 +1,10 @@
-title: "John Kamau"
+title: "Austin Emmanuel Asangai"
 subtitle: "Cybersecurity Analyst & Ethical Hacker"
-name: "John Kamau"
-description: "Penetration tester, SOC analyst and CTF player based in Nairobi."
-url: "https://yourusername.github.io"
+name: "Austin Emmanuel Asangai "
+description: "Penetration tester, SOC analyst and CTF player based in Kenya."
+url: "https://austinasangai.github.io"
 baseurl: ""
-repository: "yourusername/yourusername.github.io"
+repository: "austinasangai/austinasangai.github.io"
 
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "default"
@@ -20,7 +20,7 @@ plugins:
 
 # Author (shows in sidebar on every page)
 author:
-  name: "John Kamau"
+  name: "Austin Asangai"
   avatar: "/assets/images/avatar.jpg"
   bio: "Penetration Tester · SOC Analyst · CTF Player. Securing systems and finding vulnerabilities."
   location: "Nairobi, Kenya"
