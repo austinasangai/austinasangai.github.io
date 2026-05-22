@@ -23,7 +23,7 @@ excerpt: "Penetration Tester · SOC Analyst · CTF Player"
     <span class="stat-label">Projects Completed</span>
   </div>
   <div class="stat-item">
-    <span class="stat-num">3</span>
+    <span class="stat-num">0</span>
     <span class="stat-label">Bug Bounties</span>
   </div>
 </div>
