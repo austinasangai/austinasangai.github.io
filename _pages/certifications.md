@@ -5,7 +5,7 @@ permalink: /certifications/
 author_profile: true
 ---
 
-## *Active Certifications*
+## *Professional Training*
 
 | Certification | Issuer | Year | Status |
 |---------------|--------|------|--------|
